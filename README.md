@@ -26,6 +26,26 @@ I specialize in:
 🎯 My goal is to design real-world AI solutions that create meaningful impact.
 
 ---
+# 🛠 Technical Skills  
+
+## 👨‍💻 Programming Languages  
+`C++` `Python` `Java`
+
+## 🤖 AI / ML  
+`Machine Learning` `Deep Learning` `CNN` `YOLO`  
+`NLP` `TextBlob` `NLTK` `spaCy`  
+`Computer Vision` `Gen AI`
+
+## 📊 Data & Visualization  
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+## 🌐 Development  
+ `Streamlit` `FastAPI` `Firebase`
+
+## ☁️ Tools & Platforms  
+`GCP` `Git` `GitHub` `VS Code` 
+
+---
 
 # 🧠 Featured Projects  
 
@@ -111,26 +131,7 @@ A multi-role agriculture platform with real-time insights.
 
 ---
 
-# 🛠 Technical Skills  
 
-## 👨‍💻 Programming Languages  
-`C++` `Python` `Java`
-
-## 🤖 AI / ML  
-`Machine Learning` `Deep Learning` `CNN` `YOLO`  
-`NLP` `TextBlob` `NLTK` `spaCy`  
-`Computer Vision` `Gen AI`
-
-## 📊 Data & Visualization  
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-## 🌐 Development  
- `Streamlit` `FastAPI` `Firebase`
-
-## ☁️ Tools & Platforms  
-`GCP` `Git` `GitHub` `VS Code` 
-
----
 
 # 📈 GitHub Stats  
 
