@@ -1,6 +1,7 @@
-# 🚀 Vishnu R.M  
+
 
 <div align="center">
+# 🚀 VISHNU R.M  
 
 ### 💻 AI/ML Engineer | Competitive Programmer | Web Developer
 ### 🎓 AI/ML Student | Building Intelligent Real-World Systems    
