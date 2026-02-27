@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### 💻 AI/ML Engineer | Flutter Developer | Computer Vision Enthusiast  
-### 🎓 CSE Student | Building Intelligent Real-World Systems  
+### 💻 AI/ML Engineer | Competitive Programmer | Web Developer
+### 🎓 AI/ML Student | Building Intelligent Real-World Systems    
 
 <img src="https://komarev.com/ghpvc/?username=Vishnu23032007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
@@ -13,14 +13,13 @@
 
 ## 👨‍💻 About Me  
 
-Hi 👋 I'm **Vishnu R.M**, a passionate Computer Science Engineering student focused on building intelligent and scalable AI-powered systems.
+Hi 👋 I'm **Vishnu R.M**, a passionate Computer Science and Machine Learning Engineering student focused on building intelligent and scalable AI-powered systems.
 
 I specialize in:
 
-- 🤖 Machine Learning & Deep Learning  
-- 👁️ Computer Vision (YOLO, CNN)  
+- 🤖 Machine Learning & Deep Learning   
 - 📊 Data Analysis & Visualization  
-- 📱 Cross-platform App Development (Flutter)  
+- 📱 Web Development  
 - 🌐 Backend APIs (FastAPI)  
 
 🎯 My goal is to design real-world AI solutions that create meaningful impact.
@@ -95,15 +94,6 @@ Data visualization system for traffic analysis.
 
 ---
 
-## ❤️ Heart Disease Prediction System  
-
-Machine Learning-based health risk prediction model.
-
-### 🛠 Tech Stack:
-`Python` `Machine Learning` `Data Analysis`
-
----
-
 ## 🌾 IntelliFarm – Smart Agriculture Platform  
 
 A multi-role agriculture platform with real-time insights.
@@ -123,21 +113,21 @@ A multi-role agriculture platform with real-time insights.
 # 🛠 Technical Skills  
 
 ## 👨‍💻 Programming Languages  
-`C++` `Python` `Dart` `Java`
+`C++` `Python` `Java`
 
 ## 🤖 AI / ML  
 `Machine Learning` `Deep Learning` `CNN` `YOLO`  
 `NLP` `TextBlob` `NLTK` `spaCy`  
-`Computer Vision`
+`Computer Vision` `Gen AI`
 
 ## 📊 Data & Visualization  
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ## 🌐 Development  
-`Flutter` `Streamlit` `FastAPI` `Firebase`
+ `Streamlit` `FastAPI` `Firebase`
 
 ## ☁️ Tools & Platforms  
-`GCP` `Git` `GitHub` `VS Code`
+`GCP` `Git` `GitHub` `VS Code` 
 
 ---
 
